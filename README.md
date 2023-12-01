@@ -1,4 +1,4 @@
-#In Order To Try Out This Application
+# In Order To Try Out This Application
 
 1. Download the ASL dataset from Roboflow: https://universe.roboflow.com/david-lee-d0rhs/american-sign-language-letters/dataset/6
 2. Unzip the dataset
